@@ -5,12 +5,14 @@
 .Teal-turquoise-aqua-glitter-celebrate-birthday-Christmas-sparkle-black-background-4-hex { color: #014034; }
 .Teal-turquoise-aqua-glitter-celebrate-birthday-Christmas-sparkle-black-background-5-hex { color: #0D0D0D; }
  */
-
+html{
+    min-height: 100vh
+}
 
 header {
     background-color: #0D0D0D;
     color: #fff;
-    padding: 0px;
+    padding: 20px;
     text-align: center;
     height: 100%;
     margin: 0px;
@@ -21,6 +23,7 @@ header {
 }
 
 body {
+    min-height: 100vh;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -81,11 +84,11 @@ nav ul li a {
 }
 
 .secoes{
-    padding: 50px;
+    padding: 80px;
 }
 
 .secoes > h3 {
-    padding: 20px;
+    padding: 30px;
 }
 
 #section2{
