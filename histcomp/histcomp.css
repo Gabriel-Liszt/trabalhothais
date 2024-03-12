@@ -10,12 +10,13 @@ html{
 }
 
 header {
-    background-color: #0D0D0D;
-    color: #fff;
+    background-color: black;
+    color: white;
     padding: 20px;
     text-align: center;
     height: 100%;
     margin: 0px;
+    text-shadow: 0px 0px 5px 0px rgba(255, 255, 255, 0.795);
     
     display: flex;
     justify-content: center; /* Alinha os itens ao centro horizontalmente */
