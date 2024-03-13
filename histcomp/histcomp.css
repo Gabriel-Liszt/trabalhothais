@@ -89,6 +89,7 @@ nav ul li a {
     padding-top: 80px;
     width: 800px;
     background-color: white;
+    color: black;
     margin: auto;
 }
 
@@ -120,6 +121,7 @@ nav ul li a {
     padding: 80px;
     width: 800px;
 }
+
 #section2{
     color: black;
 }
@@ -130,6 +132,27 @@ nav ul li a {
     padding: 80px;
     width: 800px;
 }
+#titulo4{
+    background-color: #025959;
+    color: white;
+    padding: 80px;
+    width: 800px;
+}
+
+#titulo5{
+    background-color: #011526;
+    color: white;
+    padding: 80px;
+    width: 800px;
+}
+
+#titulo6{
+    background-color: white;
+    color: black;
+    padding: 80px;
+    width: 800px;
+}
+
 #section3{
     color: black;
 }
